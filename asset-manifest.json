@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LetnoKino/static/css/main.b0e0ffdd.css",
-    "main.js": "/LetnoKino/static/js/main.aa683078.js",
+    "main.js": "/LetnoKino/static/js/main.f3dd1205.js",
     "static/media/movie6.jpg": "/LetnoKino/static/media/movie6.a6f24387000d101c369c.jpg",
     "static/media/movie5.jpg": "/LetnoKino/static/media/movie5.efc7b8642c5f34a7cbb5.jpg",
     "static/media/movie1.jpg": "/LetnoKino/static/media/movie1.5f11692034b37f5dfa9b.jpg",
@@ -12,10 +12,10 @@
     "static/media/movie4.jpg": "/LetnoKino/static/media/movie4.0f0d3e5723bc5f43c096.jpg",
     "index.html": "/LetnoKino/index.html",
     "main.b0e0ffdd.css.map": "/LetnoKino/static/css/main.b0e0ffdd.css.map",
-    "main.aa683078.js.map": "/LetnoKino/static/js/main.aa683078.js.map"
+    "main.f3dd1205.js.map": "/LetnoKino/static/js/main.f3dd1205.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e0ffdd.css",
-    "static/js/main.aa683078.js"
+    "static/js/main.f3dd1205.js"
   ]
 }
