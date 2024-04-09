@@ -11,7 +11,6 @@ function App() {
       <Hero />
       <HeadlineCards />
       <Movies />
-      <Category />
     </div>
   );
 }
